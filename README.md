@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+# 👋 Hi, I'm Hamza Rashid<br><br>## 🚀 About Me<br><br>I'm a passionate **Software Engineer** with experience building scalable, high-performance applications. I love solving complex problems, writing clean code, and continuously learning new technologies. <br><br>Currently, I focus on ** tech stack, e.g., Full-Stack Development, Cloud Architecture, or AI/ML** and enjoy contributing to open-source projects.<br><br>---<br><br>## 📌 About Us<br><br><br>We are a group of dedicated engineers, designers, and innovators committed to delivering high-quality software solutions. Our mission is to bridge the gap between complex business needs and elegant technical implementations. We believe in:<br><br>- 🔧 **Clean Code & Best Practices**<br>- 🤝 **Collaboration & Transparency**<br>- 🌱 **Continuous Improvement**<br>- 🚀 **Delivering Impactful Results**<br><br>---<br><br>## 🧑‍💻 What I'm Currently Up To<br><br>- 🔭 I’m currently working on **_[Face-Recognition-Attendance-System]_**<br>- 👯 I’m looking to collaborate on **full-stack open-source projects** that use Java, Spring Boot, React, or modern JavaScript frameworks.<br>- 🤝 I’m looking for help with **scaling backend services**, **database optimization**, and **advanced React patterns**.<br>- 🌱 I’m currently learning **microservices architecture**, **cloud deployment (AWS/Azure)**, and **advanced Spring Boot features** to deepen my full-stack expertise.<br>- 💬 Ask me about **full-stack development with Java + React, REST APIs, Chrome extensions, or building responsive web apps** — I'm happy to help!<br>- ⚡ Fun fact: I've built everything from Chrome extensions to hospital management interfaces — all while enjoying the journey of full-stack engineering!<br><br><br>## 📫 Let's Connect<br><br>- 🌐 [Your Portfolio/Website](https://admirable-cascaron-38185a.netlify.app/)<br>- 💼 [LinkedIn](https://www.linkedin.com/in/hamza-rashid-7b23932a8/)<br>- 🐦 [Twitter/X](https://x.com/HamzaRa46151935)<br>- 📧 [Email](mailto:hr5228284@gmail.com)<br><br>---<br><br>> *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
 
-<!--
-**SHRnumber/SHRnumber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hamzarashid9) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hamza-rashid-7b23932a8/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/More_Tradition6662/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/HamzaRa46151935) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hr5228284@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Hamza Rashid&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Hamza Rashid&theme=ambient_gradient&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Hamza Rashid&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
