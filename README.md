@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/github/followers/HamzaRashid?style=social" alt="GitHub Followers" />
 </p>
 
----
+
 
 ## 🚀 **About Me**
 
@@ -85,9 +85,7 @@ I'm a passionate **Software Engineer** crafting scalable, high-performance appli
 <table align="center"> <tr> <td align="center" width="33%"> <img src="https://cryptologos.cc/logos/ethereum-eth-logo.svg" width="50" height="50"/><br/> <b>General Web3</b><br/> <sub>Wallets • Transactions • Gas</sub> </td> <td align="center" width="33%"> <img src="https://cryptologos.cc/logos/ethereum-eth-logo.svg" width="50" height="50"/><br/> <b>ETH Client Apps</b><br/> <sub>Web3.js • Ethers.js • Adapters</sub> </td> <td align="center" width="33%"> <img src="https://cryptologos.cc/logos/ethereum-eth-logo.svg" width="50" height="50"/><br/> <b>EVM Understanding</b><br/> <sub>Smart Contracts • Bytecode • ABI</sub> </td> </tr> <tr> <td align="center" width="33%"> <img src="https://cryptologos.cc/logos/solana-sol-logo.svg" width="50" height="50"/><br/> <b>Solana Client Apps</b><br/> <sub>@solana/web3.js • Adapters</sub> </td> <td align="center" width="33%"> <img src="https://cryptologos.cc/logos/solana-sol-logo.svg" width="50" height="50"/><br/> <b>Solana Data Model</b><br/> <sub>Accounts • PDAs • Programs</sub> </td> <td align="center" width="33%"> <img src="https://cryptologos.cc/logos/solana-sol-logo.svg" width="50" height="50"/><br/> <b>Web2 + Web3 Usecases</b><br/> <sub>Indexing • Sweeping • Oracles</sub> </td> </tr> </table>
 ⚡ Advanced Web3
 <table align="center"> <tr> <td align="center" width="50%"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="50" height="50"/><br/> <b>Solidity</b><br/> <sub>Basics → Advanced → Smart Contracts</sub> </td> <td align="center" width="50%"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="50" height="50"/><br/> <b>Rust</b><br/> <sub>Basics → Advanced → Solana Programs</sub> </td> </tr> <tr> <td align="center" colspan="2"> <b>Full Stack Web3 Development</b><br/> <sub>Writing Smart Contracts + Building Frontends for Them</sub> </td> </tr> </table></details>
-📊 Skill Proficiency Matrix
-<p align="center"> <img src="https://github-readme-stats.shion.dev/api/wakatime?username=HamzaRashid&hide_border=true&theme=radical" width="60%" /> </p>
----
+
 
 ## 📊 **GitHub Analytics**
 
