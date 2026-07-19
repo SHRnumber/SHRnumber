@@ -67,39 +67,26 @@ I'm a passionate **Software Engineer** crafting scalable, high-performance appli
 
 ---
 
-## 🛠️ **Tech Stack**
-
-### 💻 **Languages**
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white" />
-  <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" />
-</p>
-
-### 🖥️ **Frontend**
-<p align="center">
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
-### ⚙️ **Backend & Databases**
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
-
-### ☁️ **DevOps & Cloud**
-<p align="center">
-  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" />
-</p>
-
+🗺️ My Tech Journey & Expertise Roadmap
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=00D4FF&center=true&vCenter=true&width=600&lines=Full-Stack+Engineer;Cloud+Architect;Web3+Developer;DevOps+Enthusiast" alt="Typing SVG" /> </p>
+🌐 Web Development Foundations
+<table align="center"> <tr> <td align="center" width="33%"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/><br/> <b>Frontend Fundamentals</b><br/> <sub>DOM Manipulation • Simple Frontend</sub> </td> <td align="center" width="33%"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/><br/> <b>JavaScript Runtimes</b><br/> <sub>Node.js • Bun • Cloudflare Workers</sub> </td> <td align="center" width="33%"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50"/><br/> <b>HTTP Servers</b><br/> <sub>Express • Fastify • HTTP/HTTPS</sub> </td> </tr> </table>
+🗄️ Database & ORM Layer
+<table align="center"> <tr> <td align="center" width="33%"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50"/><br/> <b>NoSQL Databases</b><br/> <sub>MongoDB • DynamoDB • Firebase</sub> </td> <td align="center" width="33%"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50"/><br/> <b>SQL Databases</b><br/> <sub>PostgreSQL • MySQL • SQLite</sub> </td> <td align="center" width="33%"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" width="50" height="50"/><br/> <b>ORMs</b><br/> <sub>Prisma • Sequelize • TypeORM</sub> </td> </tr> </table>
+⚛️ Modern Frontend Stack
+<table align="center"> <tr> <td align="center" width="25%"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/><br/> <b>React</b><br/> <sub>Hooks • Context • Performance</sub> </td> <td align="center" width="25%"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50"/><br/> <b>TypeScript</b><br/> <sub>Types • Generics • Utility</sub> </td> <td align="center" width="25%"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" height="50"/><br/> <b>Next.js</b><br/> <sub>SSR • ISR • App Router</sub> </td> <td align="center" width="25%"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50" height="50"/><br/> <b>Styling React</b><br/> <sub>Tailwind • CSS-in-JS • Chakra</sub> </td> </tr> </table>
+🏗️ Advanced Frontend Architecture
+<table align="center"> <tr> <td align="center" width="33%"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" height="50"/><br/> <b>Monorepos</b><br/> <sub>Turborepo • Linters • Shared Configs</sub> </td> <td align="center" width="33%"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/websocket/websocket-original.svg" width="50" height="50"/><br/> <b>Real-time Communication</b><br/> <sub>WebSockets • WebRTC • Socket.io</sub> </td> <td align="center" width="33%"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="50" height="50"/><br/> <b>Testing</b><br/> <sub>Jest • Cypress • React Testing Library</sub> </td> </tr> </table>
+☁️ DevOps & Cloud Infrastructure
+<details> <summary><b>Click to expand DevOps Expertise 📦</b></summary> <br/><table align="center"> <tr> <td align="center" width="50%"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50"/><br/> <b>Linux & Bash</b><br/> <sub>Shell Scripting • System Administration</sub> </td> <td align="center" width="50%"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50" height="50"/><br/> <b>Cloud VMs</b><br/> <sub>EC2 • GCP VMs • Auto Scaling Groups</sub> </td> </tr> <tr> <td align="center" width="50%"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50"/><br/> <b>Containerization</b><br/> <sub>Docker • ECS • Container Orchestration</sub> </td> <td align="center" width="50%"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50" height="50"/><br/> <b>Kubernetes</b><br/> <sub>Pods • Services • Ingress • Operators</sub> </td> </tr> <tr> <td align="center" width="50%"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="50" height="50"/><br/> <b>Infrastructure as Code</b><br/> <sub>Terraform • CloudFormation • Pulumi</sub> </td> <td align="center" width="50%"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="50" height="50"/><br/> <b>Monitoring</b><br/> <sub>Prometheus • Grafana • CloudWatch</sub> </td> </tr> <tr> <td align="center" width="50%"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50"/><br/> <b>CI/CD</b><br/> <sub>GitHub Actions • GitOps • ArgoCD</sub> </td> <td align="center" width="50%"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" width="50" height="50"/><br/> <b>Package Management</b><br/> <sub>Helm • CDNs • Object Stores</sub> </td> </tr> </table></details>
+⛓️ Web3 & Blockchain Expertise
+<details> <summary><b>Click to expand Web3 Journey 🚀</b></summary> <br/>
+🌐 Web3 Basics
+<table align="center"> <tr> <td align="center" width="33%"> <img src="https://cryptologos.cc/logos/ethereum-eth-logo.svg" width="50" height="50"/><br/> <b>General Web3</b><br/> <sub>Wallets • Transactions • Gas</sub> </td> <td align="center" width="33%"> <img src="https://cryptologos.cc/logos/ethereum-eth-logo.svg" width="50" height="50"/><br/> <b>ETH Client Apps</b><br/> <sub>Web3.js • Ethers.js • Adapters</sub> </td> <td align="center" width="33%"> <img src="https://cryptologos.cc/logos/ethereum-eth-logo.svg" width="50" height="50"/><br/> <b>EVM Understanding</b><br/> <sub>Smart Contracts • Bytecode • ABI</sub> </td> </tr> <tr> <td align="center" width="33%"> <img src="https://cryptologos.cc/logos/solana-sol-logo.svg" width="50" height="50"/><br/> <b>Solana Client Apps</b><br/> <sub>@solana/web3.js • Adapters</sub> </td> <td align="center" width="33%"> <img src="https://cryptologos.cc/logos/solana-sol-logo.svg" width="50" height="50"/><br/> <b>Solana Data Model</b><br/> <sub>Accounts • PDAs • Programs</sub> </td> <td align="center" width="33%"> <img src="https://cryptologos.cc/logos/solana-sol-logo.svg" width="50" height="50"/><br/> <b>Web2 + Web3 Usecases</b><br/> <sub>Indexing • Sweeping • Oracles</sub> </td> </tr> </table>
+⚡ Advanced Web3
+<table align="center"> <tr> <td align="center" width="50%"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="50" height="50"/><br/> <b>Solidity</b><br/> <sub>Basics → Advanced → Smart Contracts</sub> </td> <td align="center" width="50%"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="50" height="50"/><br/> <b>Rust</b><br/> <sub>Basics → Advanced → Solana Programs</sub> </td> </tr> <tr> <td align="center" colspan="2"> <b>Full Stack Web3 Development</b><br/> <sub>Writing Smart Contracts + Building Frontends for Them</sub> </td> </tr> </table></details>
+📊 Skill Proficiency Matrix
+<p align="center"> <img src="https://github-readme-stats.shion.dev/api/wakatime?username=HamzaRashid&hide_border=true&theme=radical" width="60%" /> </p>
 ---
 
 ## 📊 **GitHub Analytics**
