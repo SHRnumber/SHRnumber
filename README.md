@@ -115,14 +115,6 @@ I'm a passionate **Software Engineer** crafting scalable, high-performance appli
 
 ---
 
-## 🏆 **GitHub Trophies**
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HamzaRashid&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-</p>
-
----
-
 ## 📈 **Activity Graph**
 
 <p align="center">
