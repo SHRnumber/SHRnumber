@@ -86,176 +86,25 @@ I'm a passionate **Software Engineer** crafting scalable, high-performance appli
 ⚡ Advanced Web3
 <table align="center"> <tr> <td align="center" width="50%"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="50" height="50"/><br/> <b>Solidity</b><br/> <sub>Basics → Advanced → Smart Contracts</sub> </td> <td align="center" width="50%"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="50" height="50"/><br/> <b>Rust</b><br/> <sub>Basics → Advanced → Solana Programs</sub> </td> </tr> <tr> <td align="center" colspan="2"> <b>Full Stack Web3 Development</b><br/> <sub>Writing Smart Contracts + Building Frontends for Them</sub> </td> </tr> </table></details>
 
+## 📊 **GitHub Analytics**
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>GitHub Analytics - HamzaRashid</title>
-    <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
-        body {
-            background: #0d1117;
-            color: #c9d1d9;
-            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            min-height: 100vh;
-            padding: 20px;
-        }
-        .container {
-            max-width: 1200px;
-            width: 100%;
-            background: #161b22;
-            border-radius: 16px;
-            padding: 30px 20px;
-            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.6);
-        }
-        h1 {
-            text-align: center;
-            font-size: 2rem;
-            font-weight: 600;
-            margin-bottom: 10px;
-            background: linear-gradient(135deg, #58a6ff, #f0883e);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            background-clip: text;
-        }
-        .subtitle {
-            text-align: center;
-            color: #8b949e;
-            margin-bottom: 30px;
-            font-size: 0.95rem;
-        }
-        .stats-grid {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 20px;
-            justify-content: center;
-            margin-bottom: 30px;
-        }
-        .stats-grid img {
-            border-radius: 12px;
-            max-width: 100%;
-            height: auto;
-            background: #0d1117;
-            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
-            transition: transform 0.2s ease;
-        }
-        .stats-grid img:hover {
-            transform: scale(1.02);
-        }
-        .stats-grid > * {
-            flex: 1 1 45%;
-            min-width: 320px;
-        }
-        .top-langs {
-            display: flex;
-            justify-content: center;
-            margin: 20px 0 30px;
-        }
-        .top-langs img {
-            border-radius: 12px;
-            max-width: 100%;
-            height: auto;
-            background: #0d1117;
-            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
-            transition: transform 0.2s ease;
-        }
-        .top-langs img:hover {
-            transform: scale(1.02);
-        }
-        .activity-graph {
-            margin-top: 30px;
-            border-radius: 12px;
-            overflow: hidden;
-            background: #0d1117;
-            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
-        }
-        .activity-graph img {
-            display: block;
-            width: 100%;
-            height: auto;
-        }
-        .footer {
-            text-align: center;
-            margin-top: 25px;
-            color: #8b949e;
-            font-size: 0.85rem;
-        }
-        .footer a {
-            color: #58a6ff;
-            text-decoration: none;
-        }
-        .footer a:hover {
-            text-decoration: underline;
-        }
-        @media (max-width: 700px) {
-            .stats-grid > * {
-                flex: 1 1 100%;
-                min-width: 0;
-            }
-            .container {
-                padding: 20px 12px;
-            }
-            h1 {
-                font-size: 1.6rem;
-            }
-        }
-    </style>
-</head>
-<body>
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=HamzaRashid&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&show_icons=true" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=HamzaRashid&theme=ambient_gradient&hide_border=false" width="48%" />
+</p>
 
-    <div class="container">
-        <h1>📊 GitHub Analytics</h1>
-        <p class="subtitle">Real-time stats for <strong>HamzaRashid</strong> · powered by public APIs</p>
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=HamzaRashid&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="50%" />
+</p>
 
-        <!-- Stats & Streak -->
-        <div class="stats-grid">
-            <img
-            src="https://github-readme-stats.shion.dev/api?username=HamzaRashid&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&show_icons=true"
-            alt="GitHub Stats"
-            loading="lazy"
-            />
-            <img
-            src="https://streak-stats.demolab.com/?user=HamzaRashid&theme=ambient_gradient&hide_border=false"
-            alt="GitHub Streak"
-            loading="lazy"
-            />
-        </div>
+---
 
-        <!-- Top Languages -->
-        <div class="top-langs">
-            <img
-            src="https://github-readme-stats.shion.dev/api/top-langs/?username=HamzaRashid&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
-            alt="Top Languages"
-            loading="lazy"
-            />
-        </div>
+## 📈 **Activity Graph**
 
-        <!-- Activity Graph -->
-        <div class="activity-graph">
-            <img
-            src="https://github-readme-activity-graph.vercel.app/graph?username=HamzaRashid&theme=react-dark&bg_color=20232a&hide_border=true"
-            alt="GitHub Activity Graph"
-            loading="lazy"
-            />
-        </div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HamzaRashid&theme=react-dark&bg_color=20232a&hide_border=true" />
+</p>
 
-        <div class="footer">
-            🚀 Live data from GitHub · 
-            <a href="https://github.com/HamzaRashid" target="_blank">github.com/HamzaRashid</a>
-        </div>
-    </div>
-
-</body>
-</html>
 
 ---
 
