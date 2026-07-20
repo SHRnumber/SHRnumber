@@ -108,13 +108,6 @@ I'm a passionate **Software Engineer** crafting scalable, high-performance appli
 
 ---
 
-## 📈 **Activity Graph**
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HamzaRashid&theme=react-dark&bg_color=20232a&hide_border=true" />
-</p>
-
----
 
 ## 💬 **Random Dev Quote**
 
